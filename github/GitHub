@@ -1,0 +1,9 @@
+# Initialize local repo
+git init
+git add .
+git commit -m "Initial commit: Advanced Admin Finder"
+
+# Link to GitHub
+git remote add origin https://github.com/yourname/Ultra-Admin-Finder.git
+git branch -M main
+git push -u origin main
